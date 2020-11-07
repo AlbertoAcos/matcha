@@ -1,0 +1,45 @@
+html{
+    background-color: #FFFBF7;
+}
+
+h1 {
+    
+    font-size: 60px;
+    text-align: center;
+    color: #8b8b8bcc;
+    /*border: 5px solid #ff0000;
+    border-radius: 5px;*/
+  }
+  
+p{
+    text-align: center;
+    color: #46484c;
+}
+form{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+button{
+    background-color: #46484c;
+    color: white;
+    border-radius: 10px;  
+    padding: 6px 6px;
+}
+input{
+    border-radius: 10px; 
+    padding: 6px 6px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;    
+   /*border: 5px solid red;
+   border-radius: 10px;*/
+ }
+
+ .publishing1{
+     color: green;
+ }
