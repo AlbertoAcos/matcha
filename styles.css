@@ -23,7 +23,7 @@ form{
 }
 button{
     background-color: #46484c;
-    color: white;
+    color: blue;
     border-radius: 10px;  
     padding: 6px 6px;
 }
@@ -41,5 +41,5 @@ img {
  }
 
  .publishing1{
-     color: green;
+     color: gray;
  }
